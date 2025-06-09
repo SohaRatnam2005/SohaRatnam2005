@@ -5,8 +5,14 @@
 <P>- Building projects using MERN </P>
  <P>- Practicing DSA for coding interviews</P>
 
- <h3>Let's Connect </h3>
- <p> Linkedin : <a href="url">https://www.linkedin.com/in/soha-ratnam/</a> </p>
+ <h3>Let's Connect 🤝</h3>
+<p>
+  🔗 LinkedIn: 
+  <a href="https://www.linkedin.com/in/soha-ratnam/" target="_blank" rel="noopener noreferrer">
+    https://www.linkedin.com/in/soha-ratnam/
+  </a>
+</p>
+
 
 
 
