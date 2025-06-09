@@ -6,7 +6,7 @@
  <P>- Practicing DSA for coding interviews</P>
 
  <h3>Let's Connect </h3>
- <p> Linkedin : <a>https://www.linkedin.com/in/soha-ratnam/</a> </p>
+ <p> Linkedin : <a href="url">https://www.linkedin.com/in/soha-ratnam/</a> </p>
 
 
 
