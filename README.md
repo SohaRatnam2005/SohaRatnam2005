@@ -12,6 +12,12 @@
     https://www.linkedin.com/in/soha-ratnam/
   </a>
 </p>
+<p>
+  🔗 Portfolio: 
+  <a href="https://my-portfolio-4a26.vercel.app/" target="_blank" rel="noopener noreferrer">
+    https://my-portfolio-4a26.vercel.app/
+  </a>
+</p>
 
 
 
