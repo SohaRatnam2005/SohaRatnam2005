@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🚀 About Me
-<p align="center" style="color: #b84d80;">
+<p align="center" fontColor ="#b84d80">
 I'm a curious and driven learner passionate about building impactful software. Currently exploring full-stack development, data structures &amp; algorithms, AI, and real-world project building. I enjoy solving problems, collaborating with others, and constantly improving my skills.
 
 🌱 &nbsp;I'm currently learning **Java**  
