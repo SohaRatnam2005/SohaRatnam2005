@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/SohaRatnam2005">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Soha" alt="Hello! I&#39;m Soha" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff9bce&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Soha" alt="Hello! I&#39;m Soha" />
   </a>
 </p>
 
